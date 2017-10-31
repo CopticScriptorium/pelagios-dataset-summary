@@ -1,0 +1,12 @@
+@prefix : <https://corpling.uis.georgetown.edu/annis/scriptorium> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+:my-dataset a void:Dataset;
+  dcterms:title "Coptic SCRIPTORIUM Dataset";
+  dcterms:publisher "Coptic SCRIPTORIUM";
+  foaf:homepage <https://copticscriptorium.org/>;
+  dcterms:description "Coptic SCRIPTORIUM ANNIS queries for geographic enties.";
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/>;
+  void:dataDump<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl> ;

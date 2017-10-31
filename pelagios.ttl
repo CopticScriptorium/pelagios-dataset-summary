@@ -1,0 +1,304 @@
+﻿@prefix cnt: <http://www.w3.org/2011/content#> . 
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix pelagios: <http://pelagios.github.io/vocab/terms#> .
+@prefix relations: <http://pelagios.github.io/vocab/relations#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema> .
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/00l>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ϩⲓⲉⲣⲟⲥⲟⲗⲩⲙⲁ/ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9Is-p4rKT4rKJ4rKj4rKf4rKp4rKl4rKB4rKX4rKP4rKZIiB8IGxlbW1hPSLPqeKyk-KyieKyo-Kyn-KypeKyn-Kyl-KyqeKymeKygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/00l/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/00l> ;
+ oa:hasBody <https://pleiades.stoa.org/places/687928> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/002>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ϩⲣⲱⲙⲏ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9Is-p4rKj4rKx4rKZ4rKPIg&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/002/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/002> ;
+ oa:hasBody <https://pleiades.stoa.org/places/423025> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/003>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲁⲣⲓⲙⲁⲑⲁⲓⲟⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKygeKyo-Kyk-KymeKygeKykeKygeKyk-Kyn-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/003/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/003> ;
+ oa:hasBody <https://pleiades.stoa.org/places/688014> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/004>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲃⲁⲃⲩⲗⲱⲛ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyg-KygeKyg-KyqeKyl-KyseKymyI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/004/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/004> ;
+ oa:hasBody <https://pleiades.stoa.org/places/893951> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/005>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲅⲁⲗⲓⲗⲁⲓⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyheKygeKyl-Kyk-Kyl-KygeKyk-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/005/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/005> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678145> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/006>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲇⲁⲙⲁⲥⲕⲟⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyh-KygeKymeKygeKypeKyleKyn-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/006/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/006> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678106> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/007>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲇⲉⲕⲁⲡⲟⲗⲓⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyh-KyieKyleKygeKyoeKyn-Kyl-Kyk-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/007/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/007> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678116> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/008>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲕⲩⲡⲣⲟⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyleKyqeKyoeKyo-Kyn-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/008/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/008> ;
+ oa:hasBody <https://pleiades.stoa.org/places/707498> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/009>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲉⲫⲉⲥⲟⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyieKyq-KyieKypeKyn-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/009/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/009> ;
+ oa:hasBody <https://pleiades.stoa.org/places/599612> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/010>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲓⲟⲩⲇⲁⲓⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyk-Kyn-KyqeKyh-KygeKyk-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/010/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/010> ;
+ oa:hasBody <https://pleiades.stoa.org/places/687934> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/011>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲕⲁⲓⲥⲁⲣⲓⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyleKygeKyk-KypeKygeKyo-Kyk-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/011/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/011> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678401> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/012>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲕⲁⲡⲁⲣⲛⲁⲟⲩⲙ/ⲕⲁⲫⲁⲣⲛⲁⲟⲩⲙ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyleKygeKyq-KygeKyo-Kym-KygeKyn-KyqeKymSIgfCBsZW1tYT0i4rKV4rKB4rKh4rKB4rKj4rKb4rKB4rKf4rKp4rKZIg&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/012/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/012> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678231> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/013>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲕⲉⲥⲁⲣⲓⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyleKyieKypeKygeKyo-Kyk-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/013/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/013> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678324> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/014>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲕⲏⲙⲉ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyleKyj-KymeKyiSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/014/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/014> ;
+ oa:hasBody <https://pleiades.stoa.org/places/766> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/015>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲗⲁⲟⲇⲓⲕⲓⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyl-KygeKyn-Kyh-Kyk-KyleKyk-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/015/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/015> ;
+ oa:hasBody <https://pleiades.stoa.org/places/638955> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/016>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲛⲁⲍⲁⲣⲉⲑ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKym-KygeKyjeKygeKyo-KyieKykSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/016/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/016> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678299> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/017>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲛⲉⲁⲡⲟⲗⲓⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKym-KyieKygeKyoeKyn-Kyl-Kyk-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/017/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/017> ;
+ oa:hasBody <https://pleiades.stoa.org/places/501523> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/018>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲡⲟⲛⲧⲟⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyoeKyoeKyn-Kym-Kyp-Kyn-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/018/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/018> ;
+ oa:hasBody <https://pleiades.stoa.org/places/857287> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/019>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲣⲁⲕⲟⲧⲉ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyo-KygeKyleKyn-Kyp-KyiSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/019/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/019> ;
+ oa:hasBody <https://pleiades.stoa.org/places/727070> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/020>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲥⲉⲗⲉⲩⲕⲓⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKypeKyieKyl-KyieKyqeKyleKyk-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/020/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/020> ;
+ oa:hasBody <https://pleiades.stoa.org/places/648771> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/021>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲥⲓⲛⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKypeKyk-Kym-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/021/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/021> ;
+ oa:hasBody <https://pleiades.stoa.org/places/746813> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/022>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲥⲩⲣⲓⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKypeKyqeKyo-Kyk-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/022/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/022> ;
+ oa:hasBody <https://pleiades.stoa.org/places/981550> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/023>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲁⲛⲧⲓⲟⲭⲓⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyp-KygeKym-Kyp-Kyk-Kyn-KyreKyk-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/023/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/023> ;
+ oa:hasBody <https://pleiades.stoa.org/places/658381> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/024>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲧⲁⲣⲥⲟⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyp-KygeKyo-KypeKyn-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/024/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/024> ;
+ oa:hasBody <https://pleiades.stoa.org/places/648789> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/025>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲧⲣⲱⲁⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyp-Kyo-KyseKygeKypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/025/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/025> ;
+ oa:hasBody <https://pleiades.stoa.org/places/550944> ;.
+
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/026>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲧⲩⲣⲟⲥ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyp-KyqeKyo-Kyn-KypSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/026/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/026> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678437> ;.
+ 
+ <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/027>
+   a pelagios:AnnotatedThing ;
+ dcterms:title "Coptic SCRIPTORIUM corpora query ⲃⲏⲇⲥⲁⲓⲇⲁ" ;
+ foaf:homepage <https://corpling.uis.georgetown.edu/annis/scriptorium#_q=bGVtbWE9IuKyg-Kyj-Kyh-KypeKygeKyk-Kyh-KygSI&_c=YmVzYS5sZXR0ZXJzLHNoZW5vdXRlLmEyMixzaGVub3V0ZS5hYnJhaGFtLm91ci5mYXRoZXIsYXBvcGh0aGVnbWF0YS5wYXRydW0sc2FoaWRpY2EubnQsc2hlbm91dGUuZWFnZXJuZXNzLHNhaGlkaWMub3Qsc2FoaWRpY2EuMWNvcmludGhpYW5zLHNoZW5vdXRlLmZveCxzYWhpZGljYS5tYXJrLGRvYy5wYXB5cmk&cl=5&cr=5&s=0&l=10&_seg=bm9ybV9ncm91cA> ;
+ dcterms:language "cop" ;.
+ 
+<https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/027/annotations/01>
+   a oa:Annotation ;
+ oa:hasTarget <https://github.com/CopticScriptorium/pelagios-dataset-summary/pelagios.ttl#items/026> ;
+ oa:hasBody <https://pleiades.stoa.org/places/678065> ;.
