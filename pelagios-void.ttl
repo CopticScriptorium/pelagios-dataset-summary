@@ -10,3 +10,4 @@
   dcterms:description "Coptic SCRIPTORIUM ANNIS queries for geographic enties.";
   dcterms:license <https://creativecommons.org/licenses/by/4.0/>;
   void:dataDump <https://raw.githubusercontent.com/CopticScriptorium/pelagios-dataset-summary/master/pelagios.ttl> ;
+  .
